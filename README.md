@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE | Aspiring Data Analyst  
 🔍 Passionate about transforming data into actionable insights  
-📊 Skilled in Python, Pandas, NumPy, Power BI, and SQL  
+📊 Skilled in Python (Numpy, Pandas, Matplotlib, SeaBorn), Excel, Power BI, and SQL  
 📁 Projects: CAPTCHA Recognition (CNN), Depression Detection System (Multimodal Deep Learning), Zomato Dataset Cleaning
 📈 Learning: Data Visualization | Machine Learning | Advanced Excel  
 🌱 Currently exploring real-world datasets to build impactful dashboards and models  
